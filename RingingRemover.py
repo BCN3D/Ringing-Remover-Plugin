@@ -1,4 +1,4 @@
-#Name: Reduce Ringing
+#Name: Ringing Remover
 #Info: Change accelerations to avoid the 'ringing' surface artifact
 #Depend: GCode
 #Type: postprocess
